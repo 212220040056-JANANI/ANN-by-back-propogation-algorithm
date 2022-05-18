@@ -99,10 +99,8 @@ print("Actual Output: \n" + str(y))
 print("Predicted Output: \n" ,output)
 ```
 
-
-
 ## Output:
-
+![image](https://user-images.githubusercontent.com/86832944/169064784-f7378cbc-ef8c-4c63-b370-f5355383a457.png)
 
 
 ## Result:
