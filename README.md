@@ -1,13 +1,13 @@
 ### EX NO : 06
-### DATE  :
-# <p align="center"> ANN BY BACK PROPAGATION ALGORITHM </p>
-## Aim:
+### DATE  : 02/05/2022
+# <p align="center"> BACK PROPAGATION USING ANN (MLP) </p>
+## AIM:
    To implement multi layer artificial neural network using back propagation algorithm.
-## Equipments Required:
+## EQUIPMENTS REQUIRED:
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner /Google Colab
 
-## Related Theory Concept:
+## RELATED THEORY CONCEPTS:
 Algorithm for ANN Backpropagation:
 
 • Weight initialization: Set all weights and node thresholds to small random numbers. Note that the node threshold is the negative of the weight from the bias unit(whose activation level is fixed at 1).
@@ -28,7 +28,7 @@ b. For the hidden units.
 
 Repeat iterations until convergence in term of the selected error criterion. An iteration includes presenting an instance, calculating activation and modifying weights.
 
-## Algorithm
+## ALGORITHM:
 1..Import packages
 
 2.Defining Sigmoid Function for output
@@ -41,7 +41,7 @@ Repeat iterations until convergence in term of the selected error criterion. An 
 
 6.Updating Weights
 
-## Program:
+## PROGRAM:
 ```
 /*
 Program to implement ANN by back propagation algorithm.
@@ -99,9 +99,9 @@ print("Actual Output: \n" + str(y))
 print("Predicted Output: \n" ,output)
 ```
 
-## Output:
+## OUTPUT:
 ![image](https://user-images.githubusercontent.com/86832944/169064784-f7378cbc-ef8c-4c63-b370-f5355383a457.png)
 
 
-## Result:
+## RESULT:
 Thus the python program successully implemented multi layer artificial neural network using back propagation algorithm.
