@@ -28,6 +28,10 @@ b. For the hidden units.
 
 Repeat iterations until convergence in term of the selected error criterion. An iteration includes presenting an instance, calculating activation and modifying weights.
 
+<br>
+<br>
+<br>
+<br>
 ## ALGORITHM:
 1..Import packages
 
